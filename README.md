@@ -43,8 +43,6 @@
         src="https://img.shields.io/badge/JavaScript-C79600?style=for-the-badge&logo=javascript&logoColor=323330"/></a>
    <a href="https://yarnpkg.com" target="_blank"><img alt="Yarn"
         src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></a>
-   <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
-        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
    <a href="https://git-scm.com" target="_blank"><img alt="Git"
         src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 
@@ -70,4 +68,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimsy-rimmer&layout=compact&langs_count=8&theme=tokyonight)
 
-
+<!--   <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
+        src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a> -->
