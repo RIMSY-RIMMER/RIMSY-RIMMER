@@ -6,7 +6,7 @@
     <a href="https://twitter.com/rimsy_rimmer" target="_blank"><img alt="Twitter"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://github.com/rimsy-rimmer" target="_blank"><img alt="GitHub"
-        src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+        src="https://img.shields.io/badge/GitHub-323330.svg?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 🎯 **2023**: I’m currently learning **web3 security & smart contract hacking**
 
-🌱 **Web 3** -> Enthusiast  Analyst  Consultant  Builder 
+🌱 **Web 3** -> `Enthusiast`  `Analyst`  `Consultant`  `Builder` 
 
 - 🐼 ethereum 
 - 📚 solidity 
