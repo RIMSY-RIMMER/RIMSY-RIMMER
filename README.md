@@ -48,19 +48,28 @@
 
 ---
 
-### 📌 Challenges
+### 📌 Challenges [i’m proud of]
 
+#
+
+- Secureum bootcamp
+
+#
     
 - Free Code Camp: 32-hour course about blockchain, Solidity and full stack web3 development by Patrick Collins.
-    
     - Finished: `Blockchain basics` `Solidity basics` `Hardhat basics`
-    
     - NFT Badges for  finished sections: `rimsy.eth`
     
 
 #
 
 - Finished 10 Week Ethereum 2.0 Study Master Course (https://ethereumstudymaster.com/)
+    - Here i learned how ETH Proof of Stake works and much more.
+
+#
+
+- Ethereum Yellow Paper
+- Ethereum White Paper
 
 ---
 
