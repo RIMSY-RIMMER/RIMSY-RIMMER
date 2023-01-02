@@ -76,7 +76,8 @@
 
 ### 🔎 Some stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimsy-rimmer&layout=compact&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rimsy-rimmer&layout=compact&langs_count=4&theme=tokyonight)
+
 
 <!--   <a href="https://www.npmjs.com" target="_blank"><img alt="npm"
         src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a> -->
