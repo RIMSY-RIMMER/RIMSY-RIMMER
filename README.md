@@ -37,7 +37,7 @@
         src="https://custom-icon-badges.demolab.com/badge/-Hardhat-323330?style=for-the-badge&logo=hh&logoColor=bwown"/></a>
    <a href="https://trufflesuite.com/ganache/" target="_blank"><img alt="Ganache"
         src="https://custom-icon-badges.demolab.com/badge/-Ganache-CB3837?style=for-the-badge&logo=ganache-seeklogo&logoColor=bwown"/></a>
-   <a href="https://hardhat.org/" target="_blank"><img alt="Remix"
+   <a href="https://remix.ethereum.org/" target="_blank"><img alt="Remix"
         src="https://custom-icon-badges.demolab.com/badge/-Remix-e6e6e6?style=for-the-badge&logo=remix_logo&logoColor=black"/></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript"
         src="https://img.shields.io/badge/JavaScript-C79600?style=for-the-badge&logo=javascript&logoColor=323330"/></a>
